@@ -20,6 +20,8 @@ No issues getting Caddy set up. Just followed the directions
 ## HTML
 I refreshed myself on the basic tags of HTML.
 
+I learned how to better use the form tags and how buttons work. I also learned to use div tags to split up different areas for easy customization later on. I used previous examples of html to gain a better understanding of how different tags work and where to use them.
+
 ## CSS
 
 This took a couple hours to get it how I wanted. It was important to make it responsive and Bootstrap helped with that. It looks great on all kinds of screen sizes.
